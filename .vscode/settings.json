@@ -1,5 +1,5 @@
 {
-    "cSpell.ignoreWords": [
-        "gitgit"
-    ]
+  "cSpell.ignoreWords": ["gitgit"],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true
 }
